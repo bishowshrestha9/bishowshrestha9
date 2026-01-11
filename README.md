@@ -37,21 +37,10 @@ I’m a passionate backend developer driven by curiosity, innovation, and a love
 
 ---
 
-## 🏆 GitHub Achievements & Contributions
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bishowshrestha9&theme=onestar&no-bg=true&margin-w=8" alt="Trophies" height="140"/>
-</p>
+## 🏆 GitHub Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishowshrestha9&theme=react-dark&custom_title=My%20Contribution%20Graph" alt="contribution graph" height="200" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishowshrestha9&show_icons=true&count_private=true&theme=radical&bg_color=23272e&hide_border=true&border_radius=18" height="170" />
-  <img src="https://streak-stats.demolab.com?user=bishowshrestha9&theme=neon-dark&border_radius=12" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishowshrestha9&layout=compact&langs_count=10&theme=radical&hide_border=true" height="120"/>
 </p>
 
 ---
@@ -100,24 +89,13 @@ Weekend      [▇________]  Refactor, relax, and test what survived!
 
 ---
 
-## 🛰️ Connect with Me
+## 📬 Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bishowshrestha9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bishowshrestha909@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://bishowshrestha.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-03D8C8?style=for-the-badge&logo=internetexplorer&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-ef8236?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-</p>
+You can reach me directly via email:  
+**bishowg69@gmail.com**
 
----
+*I’m not active on LinkedIn & don’t currently keep a portfolio site.*
+
 
 <p align="center" style="background: #23272e; color:#fff; border-radius: 20px; margin: 30px 60px; padding: 20px;">
   <b>
